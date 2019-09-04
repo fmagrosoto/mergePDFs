@@ -1,0 +1,15 @@
+{
+    "name": "fmagrosoto/mergepdfs",
+    "description": "Pequeño script que permite coombinar varios PDF",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Magrosoto V.",
+            "email": "fmagrosoto@gmail.com"
+        }
+    ],
+    "require": {
+        "iio/libmergepdf": "^4.0"
+    }
+}

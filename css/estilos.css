@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
+
+body  {
+    font-family: 'Chilanka', cursive;
+    font-size: 16px;
+    background: rgb(245,245,245);
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    margin: 3em auto;
+    width: 992px;
+}
+
+.boton {
+    background: rgb(200,0,0);
+    border-radius: .35em;
+    color: white;
+    display: inline-block;
+    padding: .5em 1em;
+    text-decoration: none;
+}
